@@ -31,4 +31,4 @@ This repo contains simple Python scripts for automation tasks like file renaming
    python3 rename_file.py /absolute/path/to/file /absolute/path/to/renamed_file
 2. Your file will be renamed in seconds!
 
-#### Note: These scripts have little-to-no error-handling and may need tweaking to meet your needs. If you need a custom script to suit your needs, please contact me via Github or my freelance profile on Upwork: https://www.upwork.com/freelancers/~016141760e2baf6b36?viewMode=1
+#### Note: These scripts have little-to-no error-handling and may need tweaking to meet your needs. If you need a custom script to suit your needs, please contact me via Github or my freelance profile on Upwork: https://www.upwork.com/freelancers/~016141760e2baf6b36
