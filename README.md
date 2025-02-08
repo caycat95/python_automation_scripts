@@ -18,6 +18,13 @@ This repo contains simple Python scripts for automation tasks like file renaming
    python3 random_pw_gen.py 12
 2. This will print a randomly generated password to your terminal with the length of 12. Substitute 12 with any integer you want the password length to be.
 
+## pw_gui.py
+### How to use:
+1. This script depends on random_pw_gen.py.
+2. Run the script:
+   python3 pw_gui.py
+3. This will generate a GUI that enables random password generation with a user-defined length. Passwords can be repeatedly generated and the length of the password can be edited in between password generations. 
+
 ## rename_file.py
 ### How to use:
 1. Run the script:
