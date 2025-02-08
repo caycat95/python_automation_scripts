@@ -12,4 +12,4 @@ This repo contains simple Python scripts for automation tasks like file renaming
 
 3. Your formatted Excel file will be ready in seconds!
 
-## Note: This script does not have any error-handling. If you need a custom script to suit your needs, please contact my freelance profile: https://www.upwork.com/freelancers/~016141760e2baf6b36?viewMode=1
+#### Note: This script does not have any error-handling. If you need a custom script to suit your needs, please contact my freelance profile: https://www.upwork.com/freelancers/~016141760e2baf6b36?viewMode=1
