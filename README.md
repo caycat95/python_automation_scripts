@@ -12,4 +12,10 @@ This repo contains simple Python scripts for automation tasks like file renaming
 
 3. Your formatted Excel file will be ready in seconds!
 
-#### Note: This script does not have any error-handling. If you need a custom script to suit your needs, please contact my freelance profile: https://www.upwork.com/freelancers/~016141760e2baf6b36?viewMode=1
+## random_pw_gen.py
+### How to use:
+1. Run the script:
+   python3 random_pw_gen.py 12
+2. This will print a randomly generated password to your terminal with the length of 12. Substitute 12 with any integer you want the password length to be. 
+
+#### Note: These scripts do not have any error-handling and are not custom. If you need a custom script to suit your needs, please contact me via Github or my freelance profile on Upwork: https://www.upwork.com/freelancers/~016141760e2baf6b36?viewMode=1
