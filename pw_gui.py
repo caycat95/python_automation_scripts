@@ -3,6 +3,8 @@ import random_pw_gen
 
 
 window = tk.Tk()
+window.title("caycat95's Random Password Generator")
+window.minsize(700, 200)
 
 
 def button_click():
@@ -11,6 +13,9 @@ def button_click():
     password_label.config(text=password)
 
 
+instruction_label = tk.Label(window, text=("Enter the desired length of" +
+                             " your random password:  "))
+instruction_label.pack()
 entry = tk.Entry(width=10)
 entry.pack()
 button = tk.Button(text="Generate random password", command=button_click)
