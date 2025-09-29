@@ -31,4 +31,17 @@ This repo contains simple Python scripts for automation tasks like file renaming
    python3 rename_file.py /absolute/path/to/file /absolute/path/to/renamed_file
 2. Your file will be renamed in seconds!
 
+## csv_to_excel.py
+### How to use:
+1. Run the script:
+    python3 csv_to_excel.py /absolute/path/to/file.csv /desired/absolute/path/to/excel/file.xlsx
+2. Your CSV file will be converted to an Excel file in seconds! The data will be neatly formatted into Sheet1. 
+
+## extension_sort.py
+### How to use:
+1. Run the script:
+    python3 extension_sort.py
+2. Enter the path to the folder you want to organize when prompted.
+3. Your files will be neatly organized into subfolders by file extension in seconds!
+
 #### Note: These scripts have little-to-no error-handling and may need tweaking to meet your needs. If you need a custom script to suit your needs, please contact me via Github or my freelance profile on Upwork: https://www.upwork.com/freelancers/~016141760e2baf6b36
